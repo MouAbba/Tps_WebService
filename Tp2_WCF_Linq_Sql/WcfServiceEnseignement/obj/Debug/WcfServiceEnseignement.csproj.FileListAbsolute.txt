@@ -1,0 +1,7 @@
+C:\Users\Mona\Source\Repos\WcfServiceEnseignement\WcfServiceEnseignement\bin\Debug\WcfServiceEnseignement.dll.config
+C:\Users\Mona\Source\Repos\WcfServiceEnseignement\WcfServiceEnseignement\bin\Debug\WcfServiceEnseignement.dll
+C:\Users\Mona\Source\Repos\WcfServiceEnseignement\WcfServiceEnseignement\bin\Debug\WcfServiceEnseignement.pdb
+C:\Users\Mona\Source\Repos\WcfServiceEnseignement\WcfServiceEnseignement\obj\Debug\WcfServiceEnseignement.csprojAssemblyReference.cache
+C:\Users\Mona\Source\Repos\WcfServiceEnseignement\WcfServiceEnseignement\obj\Debug\WcfServiceEnseignement.csproj.CoreCompileInputs.cache
+C:\Users\Mona\Source\Repos\WcfServiceEnseignement\WcfServiceEnseignement\obj\Debug\WcfServiceEnseignement.dll
+C:\Users\Mona\Source\Repos\WcfServiceEnseignement\WcfServiceEnseignement\obj\Debug\WcfServiceEnseignement.pdb
